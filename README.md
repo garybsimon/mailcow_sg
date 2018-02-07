@@ -1,4 +1,4 @@
-# portainer integrated
+# portainer integrated test only
 
 # mailcow: dockerized - 🐮 + 🐋 = 💕
 
